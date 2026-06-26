@@ -1,4 +1,4 @@
-# INVENTORY-MANAGEMENT-BILLING-SYSTEM
+INVENTORY-MANAGEMENT-BILLING-SYSTEM
 The Inventory Management & Billing System is a Python-based application developed to help small retail shops and businesses efficiently manage product inventory and customer billing. The system allows users to add, update, search, and display product records while maintaining accurate stock information. It also provides a billing module that calculates purchase amounts, generates bills, and automatically updates inventory after each sale.
 
 This project demonstrates the practical implementation of Python programming concepts such as classes, functions, lists, dictionaries, file handling, loops, conditional statements, and modular programming. The system improves inventory tracking, reduces manual calculation errors, and streamlines the billing process through a user-friendly menu-driven interface.
